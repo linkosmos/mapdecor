@@ -3,6 +3,7 @@ Decorator of map[string]interface{} registry and predefined decorators
 
 [![Build Status](https://travis-ci.org/linkosmos/mapdecor.svg?branch=master)](https://travis-ci.org/linkosmos/mapdecor)
 [![GoDoc](http://godoc.org/github.com/linkosmos/mapdecor?status.svg)](http://godoc.org/github.com/linkosmos/mapdecor)
+[![Go Report Card](http://goreportcard.com/badge/linkosmos/mapdecor)](http://goreportcard.com/report/linkosmos/mapdecor)
 [![BSD License](http://img.shields.io/badge/license-BSD-blue.svg)](http://opensource.org/licenses/BSD-3-Clause)
 
 ### Example
